@@ -1,0 +1,21 @@
+{
+  "name": "BiblioNotes",
+  "short_name": "BiblioNotes",
+  "description": "La mia applicazione per le note bibliografiche",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#5a3920",
+  "theme_color": "#5a3920",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
